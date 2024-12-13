@@ -44,11 +44,11 @@ Follow the next steps to set up and run the app on your local machine:
 
 1.  ### Clone the repository to your local machine:
     ```
-    git clone https://github.com/trushmi/m_game_practice
+    git clone https://github.com/trushmi/mastermind_game.git
     ```
 2.  ### Navigate to your project directory:
     ```
-    cd your-project-directory-name
+    cd mastermind_game
     ```
 3.  ### Setup the virtual environment to manage your project's dependencies separately:
     ```
